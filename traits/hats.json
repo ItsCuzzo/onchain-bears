@@ -1,0 +1,82 @@
+[
+    {
+        "trait_type": "Hat",
+        "value": "None",
+        "pixels": ""
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Crown",
+        "pixels": "jf48jg48jh48ji48kg48kh09ki48lf48lg48lh48li48mf48mg48mh48mi48ng48nh09ni48of48og48oh48oi48"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Top Hat",
+        "pixels": "ji42kd42ke42kf42kg59kh42ki42ld42le42lf42lg59lh42li42md42me42mf42mg59mh42mi42nd42ne42nf42ng59nh42ni42oi42"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Boater",
+        "pixels": "jh40kf40kg13kh40lf40lg13lh40mf40mg13mh40nf40ng13nh40oh40"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Moonbirds Crescent",
+        "pixels": "jd48je48jf48kc48ke48kf06kg48kh48lf48lg26lh48mf48mg26mh48nc48ne48nf06ng48nh48od48oe48of48"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Ear Muffs",
+        "pixels": "gg25gh25gi25he22hf22hg25hh25hi25ie22je22ke22le22me22ne22oe22pe22qe22qf22qg25qh25qi25rg25rh25ri25"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Poop",
+        "pixels": "jg27jh27kf27kg29kh27le27lf27lg29lh27md27me29mf27mg29mh27nf27ng29nh27og27oh27"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Halo",
+        "pixels": "je52kd52kf52ld52lf52md52mf52nd52nf52oe52"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Ribbon",
+        "pixels": "jf33jg33jh33kf33kg05kh33lg33mg33nf33ng05nh33of33og33oh33"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Horns",
+        "pixels": "kg05ng05"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Santa Hat",
+        "pixels": "je59kf07kg07kh59lf07lg07lh59mf07mg07mh59nf07ng07nh59"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Beanie",
+        "pixels": "je36kf23kg54kh22lf23lg25lh22mf23mg25mh22nf23ng54nh22"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Wizard Hat",
+        "pixels": "jh02kg02kh02lf02lg66lh02me02mf02mg66mh02ne02ng02nh02oh02"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Candle",
+        "pixels": "ld59le59lf59lg59mc48md59me59mf59mg59"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Yogi",
+        "pixels": "jh34kg34kh34lg34lh34mg34mh34ng34nh34oh34"
+    },
+    {
+        "trait_type": "Hat",
+        "value": "Chef",
+        "pixels": "jd59je59kd59ke59kf59kg59kh59ld59le59lf59lg59lh59md59me59mf59mg59mh59nd59ne59nf59ng59nh59od59oe59"
+    }
+]

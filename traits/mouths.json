@@ -1,0 +1,62 @@
+[
+    {
+        "trait_type": "Mouth",
+        "value": "Cute",
+        "pixels": "is42jt42kt42ls42ms42nt42ot42ps42"
+    },
+    {
+        "trait_type": "Mouth",
+        "value": "Surprised",
+        "pixels": "kt42ls42lt42ms42mt42nt42"
+    },
+    {
+        "trait_type": "Mouth",
+        "value": "Smirk",
+        "pixels": "kt42lt42mt42nt42ot42ps42"
+    },
+    {
+        "trait_type": "Mouth",
+        "value": "Sad",
+        "pixels": "it42js42ks42ls42ms42ns42os42pt42"
+    },
+    {
+        "trait_type": "Mouth",
+        "value": "Happy",
+        "pixels": "is42jt42kt42lt42mt42nt42ot42ps42"
+    },
+    {
+        "trait_type": "Mouth",
+        "value": "Confused",
+        "pixels": "it42js42ks42lt42mt42ns42os42"
+    },
+    {
+        "trait_type": "Mouth",
+        "value": "Grin",
+        "pixels": "lt42mt42nt42ot42pt42qr42qs42"
+    },
+    {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "pixels": "kt42lt42mt42nt42"
+    },
+    {
+        "trait_type": "Mouth",
+        "value": "Open",
+        "pixels": "js42ks42kt42ls42lt42ms42mt42ns42nt42os42"
+    },
+    {
+        "trait_type": "Mouth",
+        "value": "Tongue Out",
+        "pixels": "it42jt42kt42lt42mt42nt42os32ot42ps32pt42"
+    },
+    {
+        "trait_type": "Mouth",
+        "value": "Zipped",
+        "pixels": "is42jt42ks42lt42ms42nt42os42pt42"
+    },
+    {
+        "trait_type": "Mouth",
+        "value": "Teef",
+        "pixels": "js42ks45kt42ls45lt42ms45mt42ns45nt42os42"
+    }
+]

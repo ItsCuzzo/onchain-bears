@@ -2,5 +2,8 @@
 src = 'src'
 out = 'out'
 libs = ['lib']
+fs_permissions = [{ access = "read", path = "./"}]
+block_timestamp = 1000000000
 
-# See more config options https://github.com/foundry-rs/foundry/tree/master/config
+[rpc_endpoints]
+mainnet = "${ETH_RPC_URL}"
